@@ -1,0 +1,19 @@
+{
+  "name": "lolxd",
+  "version": "1.0.0",
+  "description": "XD WTF is this?",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Assasans/lolxd.git"
+  },
+  "author": "Assasans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Assasans/lolxd/issues"
+  },
+  "homepage": "https://github.com/Assasans/lolxd#readme"
+}
